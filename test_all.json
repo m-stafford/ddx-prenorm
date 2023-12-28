@@ -1,0 +1,98 @@
+{
+  "questions": [
+    {
+      "question_id": "2020POTUS",
+      "question_text": "Are you going to vote for Joe Biden or Donald Trump in the upcoming election?",
+      "responses": [
+        {
+          "response_id": "2020POTUS_1",
+          "response_value": 1,
+          "response_text": "Strong Biden Vote"
+        },
+        {
+          "response_id": "2020POTUS_2",
+          "response_value": 2,
+          "response_text": "Weak Biden Vote"
+        },
+        {
+          "response_id": "2020POTUS_3",
+          "response_value": 3,
+          "response_text": "Unsure"
+        },
+        {
+          "response_id": "2020POTUS_4",
+          "response_value": 4,
+          "response_text": "Weak Trump"
+        },
+        {
+          "response_id": "2020POTUS_5",
+          "response_value": 5,
+          "response_text": "Strong Trump"
+        }
+      ]
+    },
+    {
+      "question_id": "GenSupport",
+      "question_text": "Given the current economic conditions, the wars in Israel and Ukraine, and the rise of the far right will you be supporting Joe Biden for President? This question is being asked and paid for by the ReallyObvious SuperPAC",
+      "responses": [
+        {
+          "response_id": "R_1",
+          "response_value": 1,
+          "response_text": "Strong Biden Vote"
+        },
+        {
+          "response_id": "R_2",
+          "response_value": 2,
+          "response_text": "Weak Biden Vote"
+        },
+        {
+          "response_id": "R_3",
+          "response_value": 3,
+          "response_text": "Unsure"
+        },
+        {
+          "response_id": "R_4",
+          "response_value": 4,
+          "response_text": "Weak Oppose"
+        },
+        {
+          "response_id": "R_5",
+          "response_value": 5,
+          "response_text": "Strong Oppose"
+        }
+      ]
+    },
+    {
+      "question_id": "RevSupport",
+      "question_text": "Given the current economic conditions, the wars in Israel and Ukraine, and the rise of the far right will you be supporting the Democrat for President? This question is being asked and paid for by the ReallyObvious SuperPAC",
+      "responses": [
+        {
+          "response_id": "R_1",
+          "response_value": 5,
+          "response_text": "Strong Biden Vote"
+        },
+        {
+          "response_id": "R_2",
+          "response_value": 4,
+          "response_text": "Weak Biden Vote"
+        },
+        {
+          "response_id": "R_3",
+          "response_value": 3,
+          "response_text": "Unsure"
+        },
+        {
+          "response_id": "R_4",
+          "response_value": 2,
+          "response_text": "Weak Oppose"
+        },
+        {
+          "response_id": "R_5",
+          "response_value": 1,
+          "response_text": "Strong Oppose"
+        }
+      ]
+    }
+  ]
+} 
+
